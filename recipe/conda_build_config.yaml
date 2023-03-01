@@ -1,0 +1,4 @@
+channel_sources:
+  - lcls-i,conda-forge,defaults
+channel_targets:
+  - lcls-i main
